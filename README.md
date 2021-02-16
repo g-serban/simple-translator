@@ -2,5 +2,5 @@
 
 1. Go to the sentences text file.
 2. Write something in english, save and exit.
-3. Run the python script
+3. Run the python script with: python3 script.py
 4. Open the text file again and see your translation!

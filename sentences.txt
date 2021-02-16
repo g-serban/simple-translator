@@ -1,1 +1,1 @@
-delete this, write something in english instead, save and exit. Now run the script and come back here to check the translation!
+Add your english text here. Save and exit. Run the python script. Open this file again.
